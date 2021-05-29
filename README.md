@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning framework react js
 - 💞️ I’m looking to collaborate on little project
-- 📫 How to reach me twitter @runwaayy or telegram @index337
+- 📫 How to reach me twitter @runwayx or telegram @index337
 
 <!---
 khoirunalim/khoirunalim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
